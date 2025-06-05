@@ -1,7 +1,7 @@
 ## Hello! 
 It's Dat :wave:
 
-As a Data Enthusiast with more than 6 years of professional working experience 📚,
+As a Data Enthusiast 📚,
 
 I am very much interested in data topics like:
   - statistical hypothesis testing
